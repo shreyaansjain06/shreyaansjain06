@@ -5,46 +5,46 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=shreyaansjain&label=Profile%20views&color=0e75b6&style=flat"
-    alt="shreyaansjain"
+    src="https://komarev.com/ghpvc/?username=shreyaansjain06&label=Profile%20views&color=0e75b6&style=flat"
+    alt="shreyaansjain06"
   />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=shreyaansjain"
-      alt="shreyaansjain"
+      src="https://github-profile-trophy.vercel.app/?username=shreyaansjain06"
+      alt="shreyaansjain06"
   /></a>
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/_shreyaansjain_" target="blank"
+  <a href="https://twitter.com/shreyaansjain06" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/_shreyaansjain_?logo=twitter&style=for-the-badge"
-      alt="_shreyaansjain_"
+      src="https://img.shields.io/twitter/follow/shreyaansjain06?logo=twitter&style=for-the-badge"
+      alt="shreyaansjain06"
   /></a>
 </p>
 
 - 🔭 I’m currently working on [layer 5](https://github.com/layer5io/layer5) - 🌱
 I’m currently learning **Dev ops and Java** - 👯 I’m looking to collaborate on
-[my project](https://github.com/shreyaansjain?tab=repositories) - 👨‍💻 All of my
+[my project](https://github.com/shreyaansjain06?tab=repositories) - 👨‍💻 All of my
 projects are available at
-[https://github.com/shreyaansjain?tab=repositories](https://github.com/shreyaansjain?tab=repositories)
+[https://github.com/shreyaansjain06?tab=repositories](https://github.com/shreyaansjain06?tab=repositories)
 - 📝 I regularly write articles on
-[https://github.com/shreyaansjain.github.io](https://github.com/shreyaansjain.github.io)
+[https://github.com/shreyaansjain06.github.io](https://github.com/shreyaansjain06.github.io)
 - 💬 Ask me about **Web Development, Open Source** - 📫 How to reach me
 **shreyaansjain60@gmail.com** - 📄 Know about my experiences
-[https://github.com/shreyaansjain.github.io](https://github.com/shreyaansjain.github.io)
+[https://github.com/shreyaansjain06.github.io](https://github.com/shreyaansjain06.github.io)
 - ⚡ Fun fact **I always think like today is deadline for maximum efficiency**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/_shreyaansjain_" target="blank"
+  <a href="https://twitter.com/shreyaansjain06" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="_shreyaansjain_"
+      alt="shreyaansjain06"
       height="30"
       width="40"
   /></a>
@@ -52,7 +52,7 @@ projects are available at
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="shreyaansjain"
+      alt="shreyaansjain06"
       height="30"
       width="40"
   /></a>
@@ -60,7 +60,7 @@ projects are available at
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_shreyaans_jain_"
+      alt="shreyaansjain06"
       height="30"
       width="40"
   /></a>
@@ -204,23 +204,23 @@ projects are available at
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaansjain&show_icons=true&locale=en&layout=compact"
-    alt="shreyaansjain"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaansjain06&show_icons=true&locale=en&layout=compact"
+    alt="shreyaansjain06"
   />
 </p>
 
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=shreyaansjain&show_icons=true&locale=en"
-    alt="shreyaansjain"
+    src="https://github-readme-stats.vercel.app/api?username=shreyaansjain06&show_icons=true&locale=en"
+    alt="shreyaansjain06"
   />
 </p>
 
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaansjain&"
-    alt="shreyaansjain"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaansjain06&"
+    alt="shreyaansjain06"
   />
 </p>
