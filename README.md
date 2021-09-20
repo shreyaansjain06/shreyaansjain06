@@ -27,15 +27,13 @@
 </p>
 
 - 🔭 I’m currently working on [layer 5](https://github.com/layer5io/layer5) - 🌱
-I’m currently learning **Dev ops and Java** - 👯 I’m looking to collaborate on
-[my project](https://github.com/shreyaansjain06?tab=repositories) - 👨‍💻 All of my
-projects are available at
-[https://github.com/shreyaansjain06?tab=repositories](https://github.com/shreyaansjain06?tab=repositories)
-- 📝 I regularly write articles on
-[https://github.com/shreyaansjain06.github.io](https://github.com/shreyaansjain06.github.io)
-- 💬 Ask me about **Web Development, Open Source** - 📫 How to reach me
-**shreyaansjain60@gmail.com** - 📄 Know about my experiences
-[https://github.com/shreyaansjain06.github.io](https://github.com/shreyaansjain06.github.io)
+- I’m currently learning **Dev ops and Java**
+- 👯 I’m looking to collaborate on [my project](https://github.com/shreyaansjain06?tab=repositories) 
+- 👨‍💻 All of my projects are available at [https://github.com/shreyaansjain06?tab=repositories](https://github.com/shreyaansjain06?tab=repositories)
+- 📝 I regularly write articles on [https://github.com/shreyaansjain06.github.io](https://github.com/shreyaansjain06.github.io)
+- 💬 Ask me about **Web Development, Open Source** 
+- 📫 How to reach me **shreyaansjain60@gmail.com** 
+- 📄 Know about my experiences [https://github.com/shreyaansjain06.github.io](https://github.com/shreyaansjain06.github.io)
 - ⚡ Fun fact **I always think like today is deadline for maximum efficiency**
 
 <h3 align="left">Connect with me:</h3>
