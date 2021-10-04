@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Full+Stack+Web+Developer;UG+at+IIT+KANPUR;Open-Source+Enthusiast;Nice+To+Meet+You+...&center=true">
   </p>
   
-![Shreyaans Jain's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyaansjain06&theme=xcode)
+![Shreyaans Jain's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyaansjain06&theme=react-dark)
 
 - I'm currently working on [layer 5](https://github.com/layer5io/layer5) - 🌱
 - I’m currently learning **Dev ops and Java**
@@ -178,26 +178,10 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaansjain06&show_icons=true&locale=en&layout=compact"
-    alt="shreyaansjain06"
-  />
+<h3 align="left">📈 Stats</h3>
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shreyaansjain06&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaansjain06&theme=tokyonight" />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=shreyaansjain06&show_icons=true&locale=en"
-    alt="shreyaansjain06"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaansjain06&"
-    alt="shreyaansjain06"
-  />
-</p>
