@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Full+Stack+Web+Developer;UG+at+IIT+KANPUR;Open-Source+Enthusiast;Nice+To+Meet+You+...&center=true">
   </p>
+  
 ![Shreyaans Jain's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyaansjain06&theme=xcode)
 
 - I'm currently working on [layer 5](https://github.com/layer5io/layer5) - 🌱
